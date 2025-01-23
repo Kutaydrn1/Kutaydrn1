@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kutaydrn1
+- 👀 I’m interested in Data Analysis, Data Science, AI & ML
+- 🌱 I’m currently improving myself on Java 8
+- 📫 You can reach me via kutayduran.business@gmail.com
